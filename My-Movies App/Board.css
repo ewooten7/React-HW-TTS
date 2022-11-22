@@ -1,0 +1,29 @@
+.div-board {
+    margin: 100px 15px 10px;
+    border: solid #f7f7f9
+  }
+  
+  .add {
+    margin: 5px 10px;
+  }
+
+  .bottom {
+    margin-bottom: 15px;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .topMar15 {
+    margin-top: 15px;
+  }
+
+  .header {
+    width: 100%;
+
+    background-color: black;
+    padding: 20px 40px;
+    color: white;
+    text-align: center;
+  }

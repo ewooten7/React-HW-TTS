@@ -1,0 +1,14 @@
+header {
+    background-color: blue;
+    padding: 30px 40px;
+    color: white;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+#root {
+    margin-top: 70px;
+}
